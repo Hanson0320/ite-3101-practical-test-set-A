@@ -47,7 +47,7 @@ try:
         data = {
             "sourceCodeFilePath": source_code_file_path.replace(SEP,"/"),
             "sourceCode": code,           
-            "assignmentId": "practical-test-abcd5678"
+            "assignmentId": "ite-3101-practical-test-ab"
         }
         print("Calling to Google Cloud function and run test now, please wait.")
         r = requests.post(API_ENDPOINT+"/pytest?key="+API_KEY, json=data, timeout=300)
