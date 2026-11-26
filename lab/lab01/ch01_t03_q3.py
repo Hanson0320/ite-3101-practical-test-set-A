@@ -1,6 +1,6 @@
 def get_number_sequence(n: int) -> str:
     result = ""
-    "get_number_sequence" += 1 ->  "get_number_sequence"
+    "get_number_sequence" += 1 ->  "get_number_sequence(6)"
     
     # Add your Python code.
     return result
