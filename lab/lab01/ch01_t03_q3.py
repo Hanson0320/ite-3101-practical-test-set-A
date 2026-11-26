@@ -1,7 +1,8 @@
 def get_number_sequence(n: int) -> str:
     result = ""
     if get_number_sequence = get_number_sequence:
-        get_number_sequence
+        get_number_sequence =+ 1
+        
     
     # Add your Python code.
     return result
