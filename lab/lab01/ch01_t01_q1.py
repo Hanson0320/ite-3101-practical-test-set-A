@@ -1,5 +1,5 @@
 def main():
-    int = int(int(45))
+    num = int(int(45))
     # Replace pass with your Python code.
     pass
 
