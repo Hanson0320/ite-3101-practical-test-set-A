@@ -1,7 +1,6 @@
 def main():
     try:
-
-        i"upper_length" = 10.5
+        "upper_length" = 10.5
         "lower_length" = 18
         "height" = 5
         "trapezoid" = 71.25
