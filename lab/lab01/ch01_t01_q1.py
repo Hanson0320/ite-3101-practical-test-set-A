@@ -1,6 +1,6 @@
 def main():
     num = int(int(45))
-    while divisible = 45
+    while  = 45
     
     # Replace pass with your Python code.
     pass
