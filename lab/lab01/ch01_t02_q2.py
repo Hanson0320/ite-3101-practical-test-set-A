@@ -5,7 +5,7 @@ def main():
         "height" = 5
         "trapezoid" = 71.25
     except:
-        area = ("upper_length" + "lower_length") * h/2
+        area = ("upper_length" + "lower_length") * height/2
         area = ""
 
 
