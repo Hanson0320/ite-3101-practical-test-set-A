@@ -1,6 +1,6 @@
 def main():
     num = int(int(45))
-    while  = 45
+    else 
     
     # Replace pass with your Python code.
     pass
