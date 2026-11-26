@@ -1,5 +1,5 @@
 def main():
-    int = le
+    int = 
 
     # Replace pass with your Python code.
     pass
