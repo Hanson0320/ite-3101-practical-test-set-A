@@ -1,5 +1,5 @@
 def main():
-    i
+    type = int 
     # Replace pass with your Python code.
     pass
 
