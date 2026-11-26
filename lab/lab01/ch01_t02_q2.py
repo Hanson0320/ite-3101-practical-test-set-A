@@ -1,4 +1,6 @@
 def main():
+    try:
+        
     # Replace pass with your Python code.
     pass
 
