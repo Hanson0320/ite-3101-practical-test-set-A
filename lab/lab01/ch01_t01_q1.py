@@ -1,6 +1,6 @@
 def main():
     num = int(int(45))
-    int
+    divisible = int 
     
     # Replace pass with your Python code.
     pass
